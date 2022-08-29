@@ -1,1 +1,1 @@
-# Stock_Diversification_Prediction
+# Stock Market Portffolio Selection and Prediction
